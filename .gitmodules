@@ -1,0 +1,6 @@
+[submodule "laravel-broadcasting"]
+	path = laravel-broadcasting
+	url = https://github.com/yehezkielermanto/laravel-broadcasting
+[submodule "angular-broadcasting"]
+	path = angular-broadcasting
+	url = https://github.com/yehezkielermanto/angular-broadcasting
